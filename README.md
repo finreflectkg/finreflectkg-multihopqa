@@ -2,6 +2,14 @@
 
 ## Overview
 
+**Paper**: FinReflectKG - MultiHop: Financial QA Benchmark for Reasoning with Knowledge Graph Evidence
+
+**Authors**:
+- Abhinav Arun, Domyn New York, US (abhinav.arun@domyn.com)
+- Reetu Raj Harsh, Domyn India (reeturaj.harsh@domyn.com)
+- Bhaskarjit Sarmah, Domyn Gurgaon, India (bhaskarjit.sarmah@domyn.com)
+- Stefano Pasquali, Domyn New York, US (stefano.pasquali@domyn.co)
+
 The **FinReflectKG Multi-Hop QA Dataset** is a comprehensive collection of financial domain question-answer pairs designed for evaluating multi-hop reasoning capabilities in knowledge graphs. This dataset contains **555 high-quality questions** derived from financial documents (10-K filings) of S&P 100 companies across 3 years (2022-2024) and across GICS sectors.
 
 ## Dataset Statistics
@@ -155,3 +163,16 @@ This dataset is designed for evaluating:
 
 - **Evidence-Grounded**: All answers supported by source document chunks
 - **Diverse Patterns**: Multiple reasoning patterns and complexity levels
+
+## Citation
+
+If you use this dataset in your research, please cite:
+
+```bibtex
+@article{finreflectkg2024,
+  title={FinReflectKG - MultiHop: Financial QA Benchmark for Reasoning with Knowledge Graph Evidence},
+  author={Arun, Abhinav and Harsh, Reetu Raj and Sarmah, Bhaskarjit and Pasquali, Stefano},
+  year={2024},
+  organization={Domyn}
+}
+```
