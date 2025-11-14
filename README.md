@@ -8,7 +8,7 @@
 - Abhinav Arun, Domyn, New York, US (abhinav.arun@domyn.com)
 - Reetu Raj Harsh, Domyn, India (reeturaj.harsh@domyn.com)
 - Bhaskarjit Sarmah, Domyn, Gurugram, India (bhaskarjit.sarmah@domyn.com)
-- Stefano Pasquali, Domyn, New York, US (stefano.pasquali@domyn.co)
+- Stefano Pasquali, Domyn, New York, US (stefano.pasquali@domyn.com)
 
 The **FinReflectKG Multi-Hop QA Dataset** is a comprehensive collection of financial domain question-answer pairs designed for evaluating multi-hop reasoning capabilities in knowledge graphs. This dataset contains **555 high-quality questions** derived from financial documents (10-K filings) of S&P 100 companies across 3 years (2022-2024) and across GICS sectors.
 
